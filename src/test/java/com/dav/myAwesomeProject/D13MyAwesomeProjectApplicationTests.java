@@ -1,4 +1,4 @@
-package com.tts.d13_myAwesomeProject;
+package com.dav.myAwesomeProject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

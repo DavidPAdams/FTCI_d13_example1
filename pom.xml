@@ -8,10 +8,10 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tts</groupId>
-	<artifactId>d13_myAwesomeProject</artifactId>
+	<groupId>com.dav</groupId>
+	<artifactId>myAwesomeProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>d13_myAwesomeProject</name>
+	<name>myAwesomeProject</name>
 	<description>First Spring Boot Project</description>
 
 	<properties>
